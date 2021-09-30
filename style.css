@@ -42,22 +42,31 @@
   }
   .iconone {
     color: black;
-  
+    border-color: black;
+    border-style: solid;
   }
   .icontwo {
     color: black;
+    border-color: black;
+    border-style: solid;
   
   }
   .iconthree {
     color: black;
+    border-style: solid;
+    border-color: black;
     
   }
   .iconfour {
     color: black;
+    border-style: solid;
+    border-color: black;
     
   }
   .iconfive {
     color: black;
+    border-style: solid;
+    border-color: black;
   }
   
   
