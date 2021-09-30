@@ -1,0 +1,75 @@
+
+.section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .figureone {
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 20px
+  }
+  .figuretwo {
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 20px;
+  }
+  .figurethree {
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 20px;
+  }
+  .figurefour {
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 20px;
+  }
+  .figurefive {
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 20px;
+  }
+  .figuresix {
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 20px;
+  }
+  .iconone {
+    color: black;
+  
+  }
+  .icontwo {
+    color: black;
+  
+  }
+  .iconthree {
+    color: black;
+    
+  }
+  .iconfour {
+    color: black;
+    
+  }
+  .iconfive {
+    color: black;
+  }
+  
+  
+  .iconone:hover {
+    color: blue;
+  }
+  .icontwo:hover {
+    color: blue;
+  }
+  .iconthree:hover {
+    color: blue
+  }
+  .iconfour:hover {
+    color: blue;
+  }
